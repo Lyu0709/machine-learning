@@ -11,6 +11,8 @@
 [第四章&nbsp;&nbsp;&nbsp;&nbsp;决策树](http://www.cnblogs.com/lyu0709/p/7232650.html)
 <br>
 [第五章（上）&nbsp;&nbsp;&nbsp;&nbsp;神经网络](http://www.cnblogs.com/lyu0709/p/7235271.html)
+<br>
+[第五章（下）&nbsp;&nbsp;&nbsp;&nbsp;神经网络](http://www.cnblogs.com/lyu0709/p/7240552.html)
 
 ## 练习
 
